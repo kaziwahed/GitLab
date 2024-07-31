@@ -1,2 +1,2 @@
 # GitLab
-Newer Projects: https://gitlab.com/users/kaziwahed101/projects
+https://gitlab.com/users/kaziwahed101/projects
